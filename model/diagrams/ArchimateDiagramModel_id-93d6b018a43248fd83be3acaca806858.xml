@@ -37,4 +37,16 @@
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-44770161acf448ef9ca92bff66fdedb1.xml#id-44770161acf448ef9ca92bff66fdedb1"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fa7f1ce91a534b50b3b5cf82fcadc816">
+    <bounds
+        x="463"
+        y="261"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-63f5a00c54854a32982f64d88c41dc18.xml#id-63f5a00c54854a32982f64d88c41dc18"/>
+  </children>
 </archimate:ArchimateDiagramModel>
